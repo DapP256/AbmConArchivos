@@ -1,0 +1,10 @@
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\bin\Debug\abmConArchivos.exe.config
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\bin\Debug\abmConArchivos.exe
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\bin\Debug\abmConArchivos.pdb
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\obj\Debug\abmConArchivos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\obj\Debug\abmConArchivos.Form1.resources
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\obj\Debug\abmConArchivos.Properties.Resources.resources
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\obj\Debug\abmConArchivos.csproj.GenerateResource.cache
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\obj\Debug\abmConArchivos.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\obj\Debug\abmConArchivos.exe
+C:\Users\Daniel Andres Perez\source\repos\abmConArchivos\abmConArchivos\obj\Debug\abmConArchivos.pdb
